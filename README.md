@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este relatório descreve as etapas realizadas para a criação e configuração de uma Máquina Virtual (VM), configuração de regras de segurança de rede, criação e manipulação de um banco de dados SQL no Azure, e implementação de operações CRUD (Create, Read, Update, Delete) para a LogiMove Transportes. O objetivo é digitalizar as operações da empresa de logística, substituindo processos baseados em papel por soluções digitais.
+Este relatório documenta o desenvolvimento de uma aplicação web para a gestão de um sistema de transporte. A aplicação foi desenvolvida utilizando ASP.NET Core Razor Pages, com foco na criação, edição e exclusão de registros de clientes, motoristas e ordens de serviço. O objetivo principal do projeto é facilitar a administração e operação do sistema de transporte, permitindo uma interface amigável para os usuários gerenciarem suas operações diárias. Descreve as etapas realizadas para a criação e configuração de uma Máquina Virtual (VM), configuração de regras de segurança de rede, criação e manipulação de um banco de dados SQL no Azure, e implementação de operações CRUD (Create, Read, Update, Delete) para a LogiMove Transportes. O objetivo é digitalizar as operações da empresa de logística, substituindo processos baseados em papel por soluções digitais.
 
 ## 2. Criação de Máquina Virtual no Azure
 
