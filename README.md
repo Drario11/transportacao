@@ -124,6 +124,12 @@ Este relatório documenta o desenvolvimento de uma aplicação web para a gestã
 
 ## 7. Resultados Esperados
 
+- **Melhoria Operacional**: Digitalização das operações da LogiMove Transportes, proporcionando maior eficiência e controle sobre os processos.
+
+- **Escalabilidade**: Soluções implementadas preparadas para suportar o crescimento futuro da empresa.
+
+- **Segurança**: Medidas de segurança implementadas garantem a proteção dos dados e informações do sistema.
+
 ### Criação de Máquina Virtual
 - VM criada e configurada corretamente, acessível através do painel de controle do Azure.
 
@@ -137,4 +143,4 @@ Este relatório documenta o desenvolvimento de uma aplicação web para a gestã
 - Tabelas criadas e manipuladas corretamente com operações CRUD executadas com sucesso, verificando a integridade e funcionamento das operações.
 
 ### Conclusão
-- Com as atividades realizadas, a LogiMove Transportes está pronta para migrar para um sistema digital, melhorando a coordenação, rastreamento de remessas e a satisfação dos clientes. As soluções implementadas garantem escalabilidade e segurança, preparando a empresa para o crescimento futuro.
+- Com as atividades realizadas, a LogiMove Transportes está pronta para migrar para um sistema digital, melhorando a coordenação, rastreamento de remessas e a satisfação dos clientes. As soluções implementadas garantem escalabilidade e segurança, preparando a empresa para o crescimento futuro, sistema de gestão baseado em ASP.NET Core Razor Pages representa um avanço significativo para a LogiMove Transportes, modernizando suas operações e melhorando a experiência do cliente. As soluções adotadas oferecem uma plataforma robusta e escalável, alinhada com as melhores práticas de segurança.
