@@ -22,6 +22,10 @@ Este relatório documenta o desenvolvimento de uma aplicação web para a gestã
    - Notificação recebida após alguns minutos indicando a conclusão da criação da VM.
 9. **Verificação da VM**:
    - Acesso ao painel de controle do Azure e confirmação da VM listada nos "Recursos".
+   
+### Importância do Nome da Máquina Virtual
+
+O nome atribuído à máquina virtual, neste caso "VM-LogiMove", serve não apenas como um identificador único dentro da infraestrutura do Azure, mas também como uma convenção de nomenclatura que ajuda na identificação rápida e organização dos recursos. É recomendável escolher um nome descritivo e relevante para facilitar a administração e a manutenção futura da infraestrutura de TI.
 
 ## 3. Configuração de Regras de Segurança de Rede
 
